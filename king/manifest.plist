@@ -12,7 +12,7 @@
             <key>kind</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>https://kingmoking.github.io/forapp/king/king1113.ipa</string> 
+            <string>https://kingmoking.github.io/forapp/king/king1113-2.ipa</string> 
           </dict>  
           <dict> 
             <key>kind</key>  
@@ -32,7 +32,7 @@
           <key>bundle-identifier</key>  
           <string>x963852</string>
           <key>bundle-version</key>  
-          <string>1.3.1</string>
+          <string>1.3.3</string>
           <key>kind</key>  
           <string>software</string>  
           <key>title</key>  
