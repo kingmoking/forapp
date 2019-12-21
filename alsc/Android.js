@@ -1,5 +1,5 @@
 var Anapp =  {
     download:function(){
-        location.href = 'https://kingmoking.github.io/forapp/aslc/aslc.apk'
+        location.href = 'https://kingmoking.github.io/forapp/alsc/aslc.apk'
     }
 }
