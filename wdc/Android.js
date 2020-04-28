@@ -1,5 +1,5 @@
 ﻿var Anapp =  {
     download:function(){
-        location.href = 'https://kingmoking.github.io/forapp/WDC/adc0428.apk'
+        location.href = 'https://kingmoking.github.io/forapp/wdc/adc0428.apk'
     }
 }
