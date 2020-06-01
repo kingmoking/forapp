@@ -1,0 +1,137 @@
+.header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    height: 1.2rem;
+    line-height: 1.2rem;
+    padding: 0 0.4rem;
+    z-index: 99;
+    display: flex;
+    color: #000000;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .lefts,
+.header .left {
+    width: 1.33333333rem;
+    height: 1.2rem;
+}
+
+.header .lefts a,
+.header .left a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.header .lefts a img {
+    width: 0.8rem;
+    height: 0.8rem;
+}
+
+.header .left a img {
+    width: 0.5rem;
+    height: 0.5rem;
+}
+
+.header .title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.48rem;
+}
+
+.header .title span {
+    font-size: 0.48rem;
+}
+
+.header .title .store {
+    margin-left: 0.66666667rem;
+}
+
+.header .right {
+    width: 1.33333333rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.header .right span {
+    font-size: 0.48rem;
+}
+
+.header .right span img {
+    width: 0.64rem;
+    height: 0.64rem;
+}
+
+.header .right>img {
+    width: 0.48rem;
+    height: 0.48rem;
+}
+
+.bg {
+    position: absolute;
+    top: 1.2rem;
+    width: 100%;
+    height: 7.6rem;
+}
+
+.bg img {
+    width: 100%;
+    height: 7.6rem;
+}
+
+main {
+    width: 100%;
+    margin: 1.2rem auto 0;
+}
+
+.group {
+    padding-top: 2.1rem;
+}
+
+.logo {
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.type {
+    width: 2.5rem;
+    height: 0.6rem;
+    text-align: center;
+    margin: 1.4rem auto 0;
+}
+
+.type img {
+    width: 100%;
+    height: 100%;
+}
+
+.button {
+    width: 5.3rem;
+	height: 1.2rem;
+	background-color: #1a1a1a;
+    border-radius: 0.1rem;
+    cursor: pointer;
+    text-align: center;
+    line-height: 1.2rem;
+    margin: 1.6rem auto;
+    font-size: 0.4rem;
+    color: #fff;
+}
+
+body {
+    background-color: #fff;
+}
