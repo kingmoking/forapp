@@ -9,13 +9,13 @@
         <key>assets</key>  
         <array> 
           <dict> 
-            <key>kind</key>  
+            <key>source</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>https://kingmoking.github.io/forapp/source/source1.0.0.ipa</string> 
+            <string>https://kingmoking.github.io/forapp/Source/source1.0.0.ipa</string> 
           </dict>  
           <dict> 
-            <key>kind</key>  
+            <key>source</key>  
             <string>display-image</string>  
             <key>url</key>  
             <string>https://kingmoking.github.io/forapp/source/k2.png</string> 
