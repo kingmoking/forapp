@@ -30,11 +30,11 @@ $(".button").click(function () {
     if (is_Android) {
         console.log('Android');
         //安卓下载
-        location.href = 'king1025.apk';
+        location.href = 'source1.0.1.apk';
     }
     else {
         console.log('ios');
         //苹果
-        location.href = 'itms-services://?action=download-manifest&url=https://kingmoking.github.io/forapp/king/manifest.plist';
+        location.href = 'itms-services://?action=download-manifest&url=https://kingmoking.github.io/forapp/source/manifest.plist';
     }
 })
