@@ -12,7 +12,7 @@
             <key>kind</key>  
             <string>software-package</string>  
             <key>url</key>  
-            <string>https://kingmoking.github.io/forapp/source/source1.0.0.ipa</string> 
+            <string>https://kingmoking.github.io/forapp/source/source1.0.4.ipa</string> 
           </dict>  
           <dict> 
             <key>kind</key>  
@@ -32,7 +32,7 @@
           <key>bundle-identifier</key>  
           <string>superchain2020</string>
           <key>bundle-version</key>  
-          <string>1.0.0</string>
+          <string>1.0.4</string>
           <key>kind</key>  
           <string>software</string>  
           <key>title</key>  
