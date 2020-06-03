@@ -21,7 +21,7 @@
             <string>https://kingmoking.github.io/forapp/source/k2.png</string> 
           </dict>  
           <dict> 
-            <key>kind</key>  
+            <key>source</key>  
             <string>full-size-image</string>  
             <key>url</key>  
             <string>https://kingmoking.github.io/forapp/source/k1.png</string> 
